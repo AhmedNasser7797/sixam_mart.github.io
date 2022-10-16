@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b472b40d1e778f2cad7be355bc26ed6e",
+  "assets/AssetManifest.json": "d715c58587f00e84cde6d184d89f9977",
 "assets/assets/font/Roboto-Black.ttf": "301fe70f8f0f41c236317504ec05f820",
 "assets/assets/font/Roboto-Bold.ttf": "9ece5b48963bbc96309220952cda38aa",
 "assets/assets/font/Roboto-Medium.ttf": "b2d307df606f23cb14e6483039e2b7fa",
@@ -84,9 +84,11 @@ const RESOURCES = {
 "assets/assets/image/update.png": "b7cfdbc8ad908a9db95e78e36a0edda8",
 "assets/assets/image/user.png": "3c8bfcff49071020e373c4479bf65b9e",
 "assets/assets/image/user_marker.png": "4fb391e4b52e6cdc170736c4893b6e62",
+"assets/assets/image/viber(1).png": "56bf25c07c2159c7f7316aab6d1aea0a",
 "assets/assets/image/wallet.png": "2041d48ff7bffd8df3a5b46703cdcfb1",
 "assets/assets/image/warning.png": "9cdb1ba71f1be0698d4dd4aa33fcec08",
 "assets/assets/image/whatsapp.png": "9bc78ebfda041f8c4ccf1c8b0744c8ba",
+"assets/assets/image/whatsapp_filled.png": "5f8960ebe84038a4287089a39149296d",
 "assets/assets/image/youtube.png": "8e6fc4e3802ffded64526ab7e3b346e0",
 "assets/assets/language/ar.json": "3070cfa5a598e6b976c6f5e724363227",
 "assets/assets/language/cs.json": "fad8d34fd8f6145bbf68434526a382f2",
@@ -541,11 +543,11 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "0fdea96a18c38b8f335ffbd321aad251",
 "firebase-messaging-sw.js": "1abdb4ea4e3f17fe0ef2f80ecc05bbce",
-"flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
-"index.html": "8c83825123d4bf54e8ade5b325ab8567",
-"/": "8c83825123d4bf54e8ade5b325ab8567",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "10854fafa0b516f0025e9c927ef985a5",
+"/": "10854fafa0b516f0025e9c927ef985a5",
 "logo.png": "0fdea96a18c38b8f335ffbd321aad251",
-"main.dart.js": "1be20d21a6683068bc918b0b8a3ccfd5",
+"main.dart.js": "fcfad8f3005933d5b1393d5d2c43a2da",
 "manifest.json": "74a68440e75ac5955993f0199402ed6f",
 "style.css": "3362ef97f00e33705ff6b346d698b3c7",
 "version.json": "578ba80544f71aadb7ab3e51bee37ab0"
